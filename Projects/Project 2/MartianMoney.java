@@ -1,11 +1,3 @@
-/*******************************************
-* Martian Money
-********************************************
-* Converting Earth money to Martian money
-* Krish Patel
-* 9/15/2021
-* CMSC 255 Section 004
-********************************************/
 import java.util.Scanner;
 
 public class MartianMoney 

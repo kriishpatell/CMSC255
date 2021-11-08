@@ -31,4 +31,4 @@ public class Lab11
             System.out.print(str);
         }
     }
-}
+}/

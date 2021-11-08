@@ -10,3 +10,4 @@ public class Triangle
 		System.out.println("/__________\\");
 	}
 }
+//

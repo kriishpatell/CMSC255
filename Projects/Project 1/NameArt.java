@@ -1,12 +1,3 @@
-/*******************************************************************************
- * Name in Code
- * *****************************************************************************
- * Project description
- * This project outputs my name in a unique way on the display screen
- * Krish Patel
- * 8/26/2021
- * CMSC 255 Section 004
- * *****************************************************************************/ 
 public class NameArt
 {
 	public static void main(String[] args)

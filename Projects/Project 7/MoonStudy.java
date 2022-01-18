@@ -1,13 +1,3 @@
-/* ***************************************************************
- * MoonStudy.java
- * ***************************************************************
- * Reading and analyzing a text file with data and manipulating
- * the variables to find the data of different Moons
- * ***************************************************************
- * Krish Patel
- * 12/01/2021
- * CMSC 255 Section 004
- * ***************************************************************/
 package Labs.Project7;
 
 import java.util.Scanner;

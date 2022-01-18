@@ -1,12 +1,3 @@
-/* **********************************************************
- * House Development Test
- * **********************************************************
- * Main method to test the House and Development classes
- * Krish Patel
- * 11/9/2021
- * CMSC 255 Section 004
- * **********************************************************/
-
 package Labs.Project6;
 
 public class HouseDevelopmentTest
